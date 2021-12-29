@@ -3,7 +3,7 @@ import java.util.*;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-
+//haha
 public class test {
 	public static void main(String[] args) {
 		int i = (int)(Math.random()*4);
